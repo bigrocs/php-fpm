@@ -4,7 +4,7 @@
 #--------------------------------------------------------------------------
 #
 
-FROM php:5.3-fpm
+FROM helder/php-5.3
 
 MAINTAINER Mahmoud Zalt <mahmoud@zalt.me>
 
